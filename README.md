@@ -1,7 +1,7 @@
 # Online Music Streaming App 🎵
 
 ## Overview
-Streamify is a modern music streaming application where users can create accounts, login, and manage their playlists.
+TuneNest is a modern music streaming application where users can create accounts, login, and manage their playlists.
 
 ## Features
 - User Registration/Login
