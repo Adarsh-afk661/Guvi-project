@@ -13,6 +13,4 @@ TuneNest is a modern music streaming application where users can create accounts
 - Frontend: HTML, CSS, JS
 - Database: MySQL
 ## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Adarsh-afk661/Guvi-project.git
+https://github.com/Adarsh-afk661/Guvi-project.git
